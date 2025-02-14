@@ -1,4 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Yash Rohilla, an Aspiring IT Professional 👋🏼:
 🎓 Currently pursuing a B.Tech in Information Technology at BVCOE, achieving an impressive academic record of 84%.  
